@@ -1,0 +1,18 @@
+Code: DEW
+Level: Hard
+
+Hackers,
+
+After our, sadly, failed attempt to breach the artifact's hull with the drilling bots.
+We are initializing operation DEW...
+Two years ago our agency sent a prototype space-laser up to the International Space Station (ISS).
+The plasma laser has been installed there and has since been waiting on an opportunity to be tested, so today is that day.
+
+The prototype laser is a type of directed-energy weapon, in short DEW, that uses several lasers to form an electrically conductive laser-induced plasma channel (LIPC).
+A fraction of a second later, a powerful electric current is sent down this plasma channel and delivered to the target.
+
+As you might imagine such a powerful and high-tech device needs hundreds of settings before it can be used in the field.
+Your task is to run the power setting simulations, as the laser theoretically has no power limit.
+The simulations need to determine the sweet spot setting where the laser will breach the artifact's hull, but will not cause to much collateral damage.
+
+Access to all research document and blueprints can be found via this secured link [LINK]

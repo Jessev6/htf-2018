@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "restify": "^7.2.3"
+  }
+}

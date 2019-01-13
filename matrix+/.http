@@ -1,0 +1,15 @@
+POST http://localhost:3000 HTTP/1.1
+Content-Type: application/json
+
+{
+    "board": "OX  X XO ",
+    "width": 3
+}
+###
+POST https://a4f152a3.ngrok.io HTTP/1.1
+Content-Type: application/json
+
+{
+    "board": "OX  X XO ",
+    "width": 3
+}

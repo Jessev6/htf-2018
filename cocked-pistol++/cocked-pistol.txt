@@ -1,0 +1,9 @@
+Code: Cocked Pistol
+Level: medium
+
+Message from high command.
+Alert level 1.
+Our laser scientists, while investigating the responses from the diverse laser experiments, have detected a strange phenomenon in the tests results.  All incoming beans had some noise attached to it.  They asked the engineers to setup a noise filter on these streams.
+The TURING logger AI triggered a imminent alert level 1 on analyzing this noise.  Strange patterns were detected in the noise, indicating this might not be random noise at all.  Since our foreign relationships have become more hostile with each discovery we do on the artifact.  High command fears these might be encrypted messages from our competition.
+Mr. Pearson from statistics adapted an additional probability density algorithm on a hunch, and detected probable usage of the cyrillic alphabet in this noise.
+Hacker, urgently help out the engineers decode the messages.  All info is already uploaded to your Hackatron3310.

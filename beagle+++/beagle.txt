@@ -1,0 +1,9 @@
+Code: Beagle
+Level: hard
+
+In order to stay focused on our main goal the artifact, we need to keep an eye on one important resource: funds.
+We are just one single pawn in the glorious global game called: capitalism.  And as such are experiencing more and more competition from our Russian and Chinese friends.
+
+Hacker, we need you to write an algorithm for us to optimize our trading profits on global stock markets.  This tool is indispensable for our progress.  Help us ensure funds don't become an impediment for our investigation of the artifact.
+
+Procastination is not an option, start now!!!

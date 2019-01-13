@@ -1,0 +1,8 @@
+POST http://localhost:8080/ HTTP/1.1
+Content-Type: application/json
+
+{
+   "demand": [[500.00, 15.00], [500.00, 14.50]],
+   "supply": [[850.00, 14.85], [750.00, 14.75]],
+   "capacity": 650.00
+}

@@ -1,0 +1,16 @@
+POST http://localhost:8080 HTTP/1.1
+Content-Type: application/json
+
+{
+"lazers": 312,
+"tries": 409
+}
+
+
+###
+POST ngrok HTTP/1.1
+Content-Type: application/json
+
+{
+    "text": "ababac"
+}

@@ -1,0 +1,8 @@
+Code: Matrix
+Level: easy
+
+Hacker, our engineering department has reported some communication problems.
+Our uplink satellite at the site has been eroded, it seems that the radiation from the artifact was stronger than we have expected.
+We need you to transfer our stream to the engineering department in order to operate our deployed devices.
+Our signal has been sent to your Hackatron3310, make sure you calibrate it the correct format.
+We have provided you with the necessary documentation in order to solve this issue.

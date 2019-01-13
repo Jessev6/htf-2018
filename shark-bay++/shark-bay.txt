@@ -1,0 +1,11 @@
+Code: Shark Bay
+Level: medium
+
+The last report from the TURING logger AI came up with some strange patterns when analyzing the log streams collected by your Hackatron3310 from the artifact.
+Some of these patterns are similar to the cultures of cyano bacteria in our labs, others show astonishing evolutions our engineers have never seen before.
+
+Hacker, help us with the ongoing analysis of this.  Our engineers started cultivating several new generations of strains of these elements.
+We need to figure out if the artifact is alive or if this is just a side-effect?  How do these elements live and die?
+Some seem to go on living forever while others die out after a number of iterations.  We have to solve this enigma to unwrap the artifact.
+
+Go read the specs to find out the exact details of these strains...
